@@ -1,3 +1,3 @@
 # APEX---BPMN-Diagram
 APEX - BPMN Diagram
-Hub of Flow Details
+-> Hub of Flow Details
