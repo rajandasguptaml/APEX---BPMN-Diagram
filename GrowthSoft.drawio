@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="G8S-ebVCdpwp3Wh-kXeA">
-    <mxGraphModel dx="3465" dy="1034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3378" dy="1034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -711,7 +711,7 @@
         <mxCell id="tY0gz0rtSxMZjbIJnkCB-417" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tY0gz0rtSxMZjbIJnkCB-418" target="tY0gz0rtSxMZjbIJnkCB-424">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tY0gz0rtSxMZjbIJnkCB-418" value="Add Priority" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="tY0gz0rtSxMZjbIJnkCB-418" value="Huddle Meeting" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1990" y="1692" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tY0gz0rtSxMZjbIJnkCB-419" value="Update KPI Priority" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
@@ -723,19 +723,19 @@
         <mxCell id="tY0gz0rtSxMZjbIJnkCB-421" value="Others Feature" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1540" y="1690" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="tY0gz0rtSxMZjbIJnkCB-422" value="Parent Priority&amp;nbsp;&lt;div&gt;Details (AI)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="tY0gz0rtSxMZjbIJnkCB-422" value="&lt;div&gt;Agenda,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Description &amp;amp; Notes&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2000" y="1820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tY0gz0rtSxMZjbIJnkCB-423" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tY0gz0rtSxMZjbIJnkCB-424" target="tY0gz0rtSxMZjbIJnkCB-426">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tY0gz0rtSxMZjbIJnkCB-424" value="Child Priority" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="tY0gz0rtSxMZjbIJnkCB-424" value="Tagged priorites" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2000" y="1904.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tY0gz0rtSxMZjbIJnkCB-425" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tY0gz0rtSxMZjbIJnkCB-426" target="tY0gz0rtSxMZjbIJnkCB-455">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tY0gz0rtSxMZjbIJnkCB-426" value="Advanced Feature for assign task with priority" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="tY0gz0rtSxMZjbIJnkCB-426" value="Company Critical&lt;div&gt;Number&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2010" y="1990" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tY0gz0rtSxMZjbIJnkCB-427" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tY0gz0rtSxMZjbIJnkCB-428" target="tY0gz0rtSxMZjbIJnkCB-429">
@@ -826,7 +826,10 @@
         <mxCell id="tY0gz0rtSxMZjbIJnkCB-454" value="Assign Task" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1062" y="2249.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tY0gz0rtSxMZjbIJnkCB-455" value="Edit Priority" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="tY0gz0rtSxMZjbIJnkCB-505" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tY0gz0rtSxMZjbIJnkCB-455" target="tY0gz0rtSxMZjbIJnkCB-504">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tY0gz0rtSxMZjbIJnkCB-455" value="Meeting minutes" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2010" y="2084.5" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tY0gz0rtSxMZjbIJnkCB-459" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tY0gz0rtSxMZjbIJnkCB-460" target="tY0gz0rtSxMZjbIJnkCB-462">
@@ -938,6 +941,9 @@
         </mxCell>
         <mxCell id="tY0gz0rtSxMZjbIJnkCB-501" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;b&gt;Alignment (%)=&lt;/b&gt;&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Number of Aligned Items / Total Number of Items​×100&lt;/p&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="tY0gz0rtSxMZjbIJnkCB-500">
           <mxGeometry y="30" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tY0gz0rtSxMZjbIJnkCB-504" value="Top Priority Listing" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-2010" y="2170" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
