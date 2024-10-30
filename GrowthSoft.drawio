@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="G8S-ebVCdpwp3Wh-kXeA">
-    <mxGraphModel dx="4017" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2811" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -714,13 +714,13 @@
         <mxCell id="tY0gz0rtSxMZjbIJnkCB-418" value="Huddle Meeting" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-1990" y="1692" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="tY0gz0rtSxMZjbIJnkCB-419" value="Update KPI Priority" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="tY0gz0rtSxMZjbIJnkCB-419" value="Huddle Settings" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-1770" y="1692" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tY0gz0rtSxMZjbIJnkCB-420" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tY0gz0rtSxMZjbIJnkCB-421" target="tY0gz0rtSxMZjbIJnkCB-432" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tY0gz0rtSxMZjbIJnkCB-421" value="Others Feature" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="tY0gz0rtSxMZjbIJnkCB-421" value="Huddle Action" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-1540" y="1690" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tY0gz0rtSxMZjbIJnkCB-422" value="&lt;div&gt;Select Team, Agenda,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Description &amp;amp; Notes&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
@@ -741,10 +741,13 @@
         <mxCell id="tY0gz0rtSxMZjbIJnkCB-427" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tY0gz0rtSxMZjbIJnkCB-428" target="tY0gz0rtSxMZjbIJnkCB-429" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tY0gz0rtSxMZjbIJnkCB-428" value="Value Changes in Priority&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="tY0gz0rtSxMZjbIJnkCB-428" value="Huddle Name" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-1780" y="1830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tY0gz0rtSxMZjbIJnkCB-429" value="&lt;h3 style=&quot;box-sizing: inherit; font-family: Roboto, sf, Helvetica, Arial, sans-serif; font-size: 15px; letter-spacing: 0.05em; margin: 0px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;button style=&quot;box-sizing: inherit; font-family: Roboto, sf, Helvetica, Arial, sans-serif; font-size: 14px; background-position: 0px 0px; background-color: initial; cursor: pointer; transition: color 0.2s; border-radius: 5px; border-width: initial !important; border-style: none !important; border-color: initial !important; padding: 0px !important;&quot; data-bind=&quot;invisible: bIsOKRFeatureEnabled, click: navigateToManagePriorities&quot; title=&quot;Manage your Company Priorities&quot; class=&quot;button no-style&quot; data-value=&quot;noDrawer&quot;&gt;&lt;span style=&quot;box-sizing: inherit; letter-spacing: 0.06em; font-size: 12px; line-height: 14px; display: inline-block; vertical-align: text-top;&quot; class=&quot;label-icon dashboardHeaderSpacing&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Company Priority Insights&lt;/font&gt;&lt;/span&gt;&lt;/button&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="hiPXZs_9viHNzeyhFqRT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tY0gz0rtSxMZjbIJnkCB-429" target="hiPXZs_9viHNzeyhFqRT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tY0gz0rtSxMZjbIJnkCB-429" value="&lt;h3 style=&quot;text-align: center; box-sizing: inherit; font-family: Roboto, sf, Helvetica, Arial, sans-serif; margin: 0px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; letter-spacing: 0.72px;&quot;&gt;Set Owner Name, Time and Zone&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap; background-color: initial; font-weight: normal;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Stuck%20Items%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3Brounded%3D1%3BarcSize%3D14%3BstrokeWidth%3D2%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-1840%22%20y%3D%222360%22%20width%3D%22120%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-1780" y="1930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tY0gz0rtSxMZjbIJnkCB-430" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.501;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tY0gz0rtSxMZjbIJnkCB-419" target="tY0gz0rtSxMZjbIJnkCB-428" edge="1">
@@ -753,16 +756,19 @@
         <mxCell id="tY0gz0rtSxMZjbIJnkCB-431" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tY0gz0rtSxMZjbIJnkCB-432" target="tY0gz0rtSxMZjbIJnkCB-434" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tY0gz0rtSxMZjbIJnkCB-432" value="Filter" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="tY0gz0rtSxMZjbIJnkCB-432" value="Create New Huddle" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-1550" y="1830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tY0gz0rtSxMZjbIJnkCB-433" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tY0gz0rtSxMZjbIJnkCB-434" target="tY0gz0rtSxMZjbIJnkCB-435" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tY0gz0rtSxMZjbIJnkCB-434" value="Expand All" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="tY0gz0rtSxMZjbIJnkCB-434" value="Priority" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-1550" y="1920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tY0gz0rtSxMZjbIJnkCB-435" value="Expand All" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="hiPXZs_9viHNzeyhFqRT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tY0gz0rtSxMZjbIJnkCB-435" target="hiPXZs_9viHNzeyhFqRT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tY0gz0rtSxMZjbIJnkCB-435" value="Add Or Edit Task" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-1550" y="2010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tY0gz0rtSxMZjbIJnkCB-436" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="tY0gz0rtSxMZjbIJnkCB-437" edge="1">
@@ -829,7 +835,7 @@
         <mxCell id="tY0gz0rtSxMZjbIJnkCB-505" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tY0gz0rtSxMZjbIJnkCB-455" target="tY0gz0rtSxMZjbIJnkCB-504" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tY0gz0rtSxMZjbIJnkCB-455" value="Meeting minutes/ My Update" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="tY0gz0rtSxMZjbIJnkCB-455" value="Meeting minutes&lt;div&gt;(Who, What, When)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-2010" y="2084.5" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tY0gz0rtSxMZjbIJnkCB-459" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tY0gz0rtSxMZjbIJnkCB-460" target="tY0gz0rtSxMZjbIJnkCB-462" edge="1">
@@ -945,7 +951,7 @@
         <mxCell id="tY0gz0rtSxMZjbIJnkCB-509" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tY0gz0rtSxMZjbIJnkCB-504" target="tY0gz0rtSxMZjbIJnkCB-508" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tY0gz0rtSxMZjbIJnkCB-504" value="Top Priority Listing" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="tY0gz0rtSxMZjbIJnkCB-504" value="Huddle Members" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-2010" y="2170" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tY0gz0rtSxMZjbIJnkCB-512" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tY0gz0rtSxMZjbIJnkCB-508" target="tY0gz0rtSxMZjbIJnkCB-511" edge="1">
@@ -957,14 +963,29 @@
         <mxCell id="tY0gz0rtSxMZjbIJnkCB-508" value="Action" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-1980" y="2270" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tY0gz0rtSxMZjbIJnkCB-511" value="Top Priority Task" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-1840" y="2290" width="120" height="40" as="geometry" />
+        <mxCell id="tY0gz0rtSxMZjbIJnkCB-511" value="&amp;nbsp;Priority Task" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-2140" y="2370" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tY0gz0rtSxMZjbIJnkCB-513" value="Stuck Items" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-1840" y="2360" width="120" height="30" as="geometry" />
+        <mxCell id="tY0gz0rtSxMZjbIJnkCB-513" value="List of Stuck Items" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-1840" y="2370" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hiPXZs_9viHNzeyhFqRT-1" value="Stuck Items" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-1840" y="2420" width="120" height="30" as="geometry" />
+        <mxCell id="hiPXZs_9viHNzeyhFqRT-1" value="Priorities Chart" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1990" y="2370" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hiPXZs_9viHNzeyhFqRT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hiPXZs_9viHNzeyhFqRT-2" target="hiPXZs_9viHNzeyhFqRT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hiPXZs_9viHNzeyhFqRT-2" value="&lt;h3 style=&quot;text-align: center; box-sizing: inherit; font-family: Roboto, sf, Helvetica, Arial, sans-serif; margin: 0px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; letter-spacing: 0.72px;&quot;&gt;Set Video Conference Link&lt;/span&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1780" y="2024.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hiPXZs_9viHNzeyhFqRT-4" value="&lt;h3 style=&quot;text-align: center; box-sizing: inherit; font-family: Roboto, sf, Helvetica, Arial, sans-serif; margin: 0px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; letter-spacing: 0.72px;&quot;&gt;Select Participants&lt;/span&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1780" y="2110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hiPXZs_9viHNzeyhFqRT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.432;entryY=0.068;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tY0gz0rtSxMZjbIJnkCB-508" target="hiPXZs_9viHNzeyhFqRT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hiPXZs_9viHNzeyhFqRT-7" value="Update KPI" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1550" y="2099.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
