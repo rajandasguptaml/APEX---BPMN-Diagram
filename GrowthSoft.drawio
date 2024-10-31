@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="G8S-ebVCdpwp3Wh-kXeA">
-    <mxGraphModel dx="5901" dy="1359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5111" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -553,6 +553,14 @@
         </mxCell>
         <mxCell id="tY0gz0rtSxMZjbIJnkCB-250" value="Edit Metric and Priority" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-220" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MjMycEPGMYUm0kwZc_2U-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tY0gz0rtSxMZjbIJnkCB-252" target="tY0gz0rtSxMZjbIJnkCB-225">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1550" y="834" />
+              <mxPoint x="1550" y="450" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="tY0gz0rtSxMZjbIJnkCB-252" value="Edit Priority" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="880" y="804.5" width="140" height="60" as="geometry" />
