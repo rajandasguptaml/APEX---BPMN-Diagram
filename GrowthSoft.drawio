@@ -348,7 +348,7 @@
         <mxCell id="tY0gz0rtSxMZjbIJnkCB-134" value="Details in a Card with Percentage" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-380" y="804.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tY0gz0rtSxMZjbIJnkCB-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tY0gz0rtSxMZjbIJnkCB-136" target="tY0gz0rtSxMZjbIJnkCB-65" edge="1">
+        <mxCell id="MjMycEPGMYUm0kwZc_2U-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tY0gz0rtSxMZjbIJnkCB-136" target="MjMycEPGMYUm0kwZc_2U-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tY0gz0rtSxMZjbIJnkCB-136" value="Priority Show" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
@@ -1091,6 +1091,12 @@
         </mxCell>
         <mxCell id="hiPXZs_9viHNzeyhFqRT-112" value="&lt;span style=&quot;font-size: 13px;&quot; class=&quot;base&quot;&gt;&lt;span class=&quot;mord&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;/p&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left; box-sizing: inherit;&quot;&gt;One Page Strategic Plan&lt;/li&gt;&lt;li style=&quot;text-align: left; box-sizing: inherit;&quot;&gt;Alignment Checklist&lt;/li&gt;&lt;li style=&quot;text-align: left; box-sizing: inherit;&quot;&gt;4D Vision Summary&lt;/li&gt;&lt;li style=&quot;text-align: left; box-sizing: inherit;&quot;&gt;Functional Accountability&lt;/li&gt;&lt;li style=&quot;text-align: left; box-sizing: inherit;&quot;&gt;Process Accountability&lt;/li&gt;&lt;li style=&quot;text-align: left; box-sizing: inherit;&quot;&gt;7 Strata&lt;/li&gt;&lt;li style=&quot;text-align: left; box-sizing: inherit;&quot;&gt;Cash Acceleration Strategies&lt;/li&gt;&lt;li style=&quot;text-align: left; box-sizing: inherit;&quot;&gt;Cash: Power of One&lt;/li&gt;&lt;/ol&gt;&lt;/span&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="hiPXZs_9viHNzeyhFqRT-111" vertex="1">
           <mxGeometry y="30" width="230" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="MjMycEPGMYUm0kwZc_2U-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MjMycEPGMYUm0kwZc_2U-2" target="tY0gz0rtSxMZjbIJnkCB-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MjMycEPGMYUm0kwZc_2U-2" value="Edit Priority&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
