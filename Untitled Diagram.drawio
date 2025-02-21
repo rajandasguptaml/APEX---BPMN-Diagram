@@ -92,9 +92,6 @@
         <mxCell id="U7Rz9G83Krhw1gzFX6Xz-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="U7Rz9G83Krhw1gzFX6Xz-33" target="U7Rz9G83Krhw1gzFX6Xz-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U7Rz9G83Krhw1gzFX6Xz-39" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" vertex="1" parent="1">
-          <mxGeometry x="370" y="420" width="50" height="50" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
